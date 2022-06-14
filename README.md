@@ -1,4 +1,12 @@
 # server-deployment-practice
+
+
+* [Successful Pull Request](https://github.com/bc0351/server-deployment-practice/pull/2)
+
+* [Github Repo](https://github.com/bc0351/server-deployment-practice.git)
+* [Heroku Staging Git](https://git.heroku.com/ben-server-deploy-dev.git)
+* [Heroku Production Git](https://git.heroku.com/ben-server-deploy-prod.git)
+
 # LAB: Node Ecosystem, CI, CD
 
 Time to get hands on with Node.js development! Today, you'll create and deploy a web server using CI and CD and get used to the general process of building and deploying servers, and prepping your work for grading
