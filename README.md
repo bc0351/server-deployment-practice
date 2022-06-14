@@ -1,1 +1,1 @@
-# lab-01-ci
+# server-deployment-practice
